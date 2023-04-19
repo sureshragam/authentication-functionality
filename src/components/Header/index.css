@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+li {
+  list-style-type: none;
+  margin-right: 30px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
